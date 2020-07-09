@@ -12,6 +12,6 @@ package com.sunil.DB;
 public interface DBProperties {
     String Driver="com.mysql.jdbc.Driver";
     String URL="jdbc:mysql://localhost:3306/db";
-    String unm="root";
-    String pwd="kamla123";
+    String unm=""; //Enter your credentials
+    String pwd=""; 
 }
